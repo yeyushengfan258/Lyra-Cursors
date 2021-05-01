@@ -35,3 +35,4 @@ The freshly compiled cursor theme will be located in `dist/`
 ![Lyra](preview-2.png)
 ![Lyra](preview-3.png)
 ![Lyra](preview-4.png)
+![Lyra](preview-5.png)
