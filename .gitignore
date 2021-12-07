@@ -1,0 +1,7 @@
+# build folders
+/dist*
+/build
+
+# arch pkg
+/pkg/
+/*.pkg.tar.zst
